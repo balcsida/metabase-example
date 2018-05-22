@@ -1,0 +1,6 @@
+{
+    "id": "metabase",
+    "image": "metabase/metabase:latest",
+    "memory": 4096,
+    "cpu": 2
+}
