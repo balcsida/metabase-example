@@ -2,7 +2,7 @@
 
 # Metabase
 
-An example of [Metabase](https://www.metabase.com/).
+An example of [Metabase](https://www.metabase.com/) on [WeDeploy](https://wedeploy.com/).
 
 ## Instructions
 
