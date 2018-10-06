@@ -9,3 +9,7 @@ An example of [Metabase](https://www.metabase.com/) on [WeDeploy](https://wedepl
 1. Install the [WeDeploy CLI](https://wedeploy.com/docs/intro/using-the-command-line/).
 2. Clone this repository.
 3. Open the project with your command line and run `we deploy -p yourproject`.
+
+## License
+
+[BSD-3-Clause](./LICENSE.md), © Liferay, Inc.
